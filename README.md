@@ -1,1 +1,1 @@
-# angular-notes-app
+# Notes App with Angular
